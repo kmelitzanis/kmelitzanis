@@ -1,41 +1,84 @@
-### Hi, I'm Kostas Melitzanis 👋
+<div align="center">
 
-🎓 Computer Engineering Graduate | University of Thessaly
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=F46F25&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kostas+Melitzanis+%F0%9F%91%8B;Magento+2+%26+E-commerce+Developer;Full-stack+%7C+Project+Lead;Professional+DJ+%F0%9F%8E%A7" alt="Typing intro" />
 
-💻 Tech Enthusiast & Creative Mind
+**Computer Engineer**
 
-📫 How to reach me: kmelitzanis@outlook.com
+<a href="mailto:kmelitzanis@outlook.com"><img src="https://img.shields.io/badge/Email-kmelitzanis%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=kmelitzanis&style=for-the-badge&color=F46F25&label=PROFILE+VIEWS" />
 
+</div>
 
-### Technical Expertise
-![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D?logo=vuedotjs&style=for-the-badge&logoColor=%234FC08D)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?logo=javascript&style=for-the-badge&logoColor=%23000)
-![Ruby On Rails](https://img.shields.io/badge/Ruby_on_Rails-%23CC342D?logo=rubyonrails&style=for-the-badge&logoColor=%23white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC?logo=tailwindcss&style=for-the-badge&logoColor=%2338B2AC)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&style=for-the-badge&logoColor=white)
-![Sass](https://img.shields.io/badge/sass-%23CC6699?logo=sass&style=for-the-badge&logoColor=%23fff)
+---
 
-## Worked With
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&style=for-the-badge&logoColor=%23007ACC)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4?logo=php&style=for-the-badge&logoColor=%23fff)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1?logo=mysql&style=for-the-badge&logoColor=%23fff)
+### 🧑‍💻 About Me
 
-### Creative Purs
-- Music Composition & Production
-- Professional Drumming
-- DJ Performance
-- Digital Audio Engineering
+I'm a **Computer Engineering graduate from the University of Thessaly** working at the intersection of code, clients and commerce.
 
-### Tech Interests 🚀
-- Full-stack Development
-- Web Technologies
-- Emerging Trends in Software Engineering
-- Technology Innovation
+- 🛒 Building and maintaining **Magento 2** stores and **ERP integrations** — frontend and backend
+- 🧭 Leading **client projects** end-to-end: from requirements to delivery
+- 🔁 The bridge between business and tech — I translate between clients and developers
+- 🏠 Self-hosting enthusiast: running my own home server & services
+- 🎧 **Professional DJ** — music production, live performance, audio engineering & drums
 
-### Gaming Enthusiast 🎮
-- Competitive Gaming
-- Game Development Interest
-- Esports Community Participation
+> *"Good software, like a good set, is all about flow."*
 
-### Let's Connect! 🌐
-Feel free to reach out for collaborations, tech discussions, or creative projects!
+---
+
+### 🛠️ Tech Stack
+
+**Core**
+
+![Magento](https://img.shields.io/badge/Magento_2-EE672F?style=for-the-badge&logo=magento&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Frontend**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+**Also worked with**
+
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kmelitzanis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmelitzanis&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=kmelitzanis&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+### 🎶 Beyond the Code
+
+| 🎧 Music | 🚀 Tech | 🎮 Gaming |
+|:--|:--|:--|
+| DJ performance | Full-stack development | Competitive gaming |
+| Music production | Self-hosting & home lab | Game dev curiosity |
+| Drumming | Emerging tech & automation | Esports community |
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+Open to collaborations, e-commerce projects, tech talks — or a good track recommendation.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F46F25&height=100&section=footer" />
+
+</div>
