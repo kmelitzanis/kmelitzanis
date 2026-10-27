@@ -63,16 +63,6 @@ I'm a **Computer Engineering graduate from the University of Thessaly** working 
 
 ---
 
-### 🎶 Beyond the Code
-
-| 🎧 Music | 🚀 Tech | 🎮 Gaming |
-|:--|:--|:--|
-| DJ performance | Full-stack development | Competitive gaming |
-| Music production | Self-hosting & home lab | Game dev curiosity |
-| Drumming | Emerging tech & automation | Esports community |
-
----
-
 <div align="center">
 
 ### 🤝 Let's Connect
